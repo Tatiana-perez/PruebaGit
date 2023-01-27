@@ -9,6 +9,7 @@ public class ClasePrueba {
 
 		x %=y;
 		System.out.println(y);
+		S.met.tousyprint("modificacio"sne);
 	}
 
 }
